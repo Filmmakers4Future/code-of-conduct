@@ -8,7 +8,11 @@ For now please refere to **[Terminology, Power and Oppressive Language](https://
 
 The default branch of our repositories is called `main`. 
 
->  `master`  is an oppressive metaphor that will and should never become fully detached from history. [^1] 
+>  `Master-slave`  is an oppressive metaphor that will and should never become fully detached from history. [^1] 
+
+Even though there technically is no `master-slave` relationship in a git repository, the word can still be understood in this context and since `main` is just as good a description for our purposes, we decided to name it that way hoping people will feel more confortable this way. 
+
+In case it bothers no one, it will at least encourage reflection on some established technical terms & metaphors and their roots.
 
 ## Sources
 
